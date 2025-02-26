@@ -1,0 +1,12 @@
+ho tem: NguyenVanA
+tuoi: : 20
+diem trung binh: 7.5
+PASS
+ho tem: TranThiB
+tuoi: : 19
+diem trung binh: 4.5
+FAIL
+ho tem: LeVanC
+tuoi: : 21
+diem trung binh: 6
+PASS
